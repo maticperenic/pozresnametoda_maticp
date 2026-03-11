@@ -1,0 +1,161 @@
+1. Non-overlapping Intervals
+
+Primer iz programa:
+
+Intervali so:
+
+[1,2]
+
+[2,3]
+
+[3,4]
+
+[1,3]
+
+Izpis programa:
+
+Minimalno stevilo intervalov za odstranitev: 1
+Kaj to pomeni
+
+To pomeni, da moramo odstraniti 1 interval, da se preostali intervali ne prekrivajo.
+
+Če pogledamo intervale:
+
+[1,2]
+
+[2,3]
+
+[3,4]
+
+se med seboj ne prekrivajo, zato jih lahko obdržimo.
+
+Problem povzroča interval:
+
+[1,3]
+
+ker se prekriva z drugimi.
+
+Zato ga odstranimo.
+
+Končni rezultat
+
+Odstranimo 1 interval, da ostali delujejo brez konflikta.
+
+2. Meeting Rooms II
+
+Primer sestankov:
+
+[0,30]
+
+[5,10]
+
+[15,20]
+
+Izpis programa:
+
+Minimalno stevilo potrebnih sejnih sob: 2
+Kaj to pomeni
+
+To pomeni, da potrebujemo vsaj 2 sejni sobi, da lahko izvedemo vse sestanke.
+
+Če pogledamo časovno:
+
+Sestanek	Čas
+1	0–30
+2	5–10
+3	15–20
+
+Sestanek 0–30 se prekriva z obema drugima.
+
+Zato potrebujemo:
+
+eno sobo za sestanek 0–30
+
+drugo sobo za sestanek 5–10 ali 15–20
+
+Končni rezultat
+
+Minimalno število sob je 2.
+
+3. Candy (bonboni)
+
+Primer ocen:
+
+1, 0, 2
+
+Izpis programa:
+
+Minimalno stevilo bonbonov: 5
+Kaj to pomeni
+
+Vsak mora dobiti:
+
+vsaj 1 bonbon
+
+če ima višjo oceno kot sosed, mora dobiti več bonbonov
+
+Ocene:
+
+Otrok	Ocena
+1	1
+2	0
+3	2
+
+Optimalna razdelitev bonbonov je:
+
+Otrok	Bonboni
+1	2
+2	1
+3	2
+
+Vsota:
+
+2 + 1 + 2 = 5
+Končni rezultat
+
+Najmanjše možno število bonbonov je 5.
+
+4. Jump Game II
+
+Primer:
+
+2, 3, 1, 1, 4
+
+Izpis programa:
+
+Minimalno stevilo skokov: 2
+Kaj to pomeni
+
+Število pove, koliko korakov lahko skočimo s tega mesta.
+
+Primer poti:
+
+Start na indeksu 0
+
+0 -> 1 -> 4
+
+Koraki:
+
+1️⃣ prvi skok
+iz 0 lahko skočimo do 1 ali 2
+
+2️⃣ drugi skok
+iz 1 lahko skočimo do konca
+
+Končni rezultat
+
+Do konca pridemo v 2 skokih.
+
+Kako lahko profesorju poveš na kratko
+
+Ko program zaženem, dobim rezultate za vsak algoritem:
+
+pri intervalih dobim koliko intervalov moram odstraniti, da se ne prekrivajo
+
+pri sejnih sobah dobim minimalno število sob za vse sestanke
+
+pri bonbonih dobim najmanjše število bonbonov, ki še vedno izpolnjuje pravila
+
+pri Jump Game dobim najmanjše število skokov do konca tabele
+
+Ti rezultati pokažejo, da požrešni algoritmi pravilno najdejo optimalno rešitev.
