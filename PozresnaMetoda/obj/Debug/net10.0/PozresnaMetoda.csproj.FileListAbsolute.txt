@@ -1,0 +1,14 @@
+C:\Users\matic\source\repos\PozresnaMetoda\bin\Debug\net10.0\PozresnaMetoda.exe
+C:\Users\matic\source\repos\PozresnaMetoda\bin\Debug\net10.0\PozresnaMetoda.deps.json
+C:\Users\matic\source\repos\PozresnaMetoda\bin\Debug\net10.0\PozresnaMetoda.runtimeconfig.json
+C:\Users\matic\source\repos\PozresnaMetoda\bin\Debug\net10.0\PozresnaMetoda.dll
+C:\Users\matic\source\repos\PozresnaMetoda\bin\Debug\net10.0\PozresnaMetoda.pdb
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\PozresnaMetoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\PozresnaMetoda.AssemblyInfoInputs.cache
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\PozresnaMetoda.AssemblyInfo.cs
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\PozresnaMetoda.csproj.CoreCompileInputs.cache
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\PozresnaMetoda.dll
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\refint\PozresnaMetoda.dll
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\PozresnaMetoda.pdb
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\PozresnaMetoda.genruntimeconfig.cache
+C:\Users\matic\source\repos\PozresnaMetoda\obj\Debug\net10.0\ref\PozresnaMetoda.dll
